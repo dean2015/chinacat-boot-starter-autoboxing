@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.chinacat.boot.starter.autoboxing.config.property.AutoboxingProperties,\
+com.chinacat.boot.starter.autoboxing.config.AutoboxingConfig
